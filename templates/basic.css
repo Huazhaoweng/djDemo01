@@ -22,3 +22,11 @@
             color:hotpink;
             font-size: 30px;
         }
+        .class02>a {
+            color: black;
+
+        }
+        .class02>a:hover {
+            color: navy;
+            font-weight: bold;
+        }
